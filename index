@@ -60,8 +60,8 @@
 
 <body>
     <header class="container text-center">
-        <img src="https://img.freepik.com/premium-photo/computer-programmer-isolated-cartoon-character_934475-17674.jpg?w=2000" alt="avatar do Kaique" class="rounded-circle" width="150" height="150">
-        <p class="lead">Eu sou Adria Camilly</p>
+        <img src="https://img.freepik.com/vetores-gratis/cute-girl-hacker-operando-laptop-cartoon-vector-icon-ilustracao-pessoas-tecnologia-isolada-plana_138676-9487.jpg?semt=ais_hybrid&w=740" alt="avatar da adrinha" class="rounded-circle" width="150" height="150">
+        <p class="lead">Eu sou Adria</p>
         <h1>Eu ensino Programação</h1>
         <p>Sou Engenheiro de Computação e Pedagogo. Ensino pensamento computacional para estudantes do Ensino
             Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
